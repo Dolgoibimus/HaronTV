@@ -10,6 +10,7 @@
 - **Версия для телефона — Харон:** https://4pda.to/forum/index.php?showtopic=1119412
 - **Сайт:** https://vampilenna.online/
 - **Связь:** vampilenna@gmail.com
+- **Политика конфиденциальности:** [PRIVACY_POLICY.md](PRIVACY_POLICY.md)
 
 ## Какую сборку выбрать
 
@@ -28,6 +29,7 @@ HaronTV is a dual-pane file manager for Android TV and set-top boxes, fully cont
 - **Package name:** `com.vamp.haron.tv`
 - **Requires:** Android 9.0+
 - **Download:** [Releases](https://github.com/Dolgoibimus/HaronTV/releases/latest)
+- **Privacy policy:** [PRIVACY_POLICY.md](PRIVACY_POLICY.md)
 
 Builds: **full** (built-in VLC player, PDF reader, OCR, FFmpeg) and **mini** (lightweight, uses an external video player). `arm64-v8a` for 64-bit devices, `armeabi-v7a` for 32-bit ones (runs on both).
 
